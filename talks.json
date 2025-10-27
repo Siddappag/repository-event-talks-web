@@ -1,0 +1,51 @@
+
+[
+  {
+    "title": "The Future of Large Language Models",
+    "speakers": ["Dr. Priya Sharma"],
+    "category": ["LLMs", "AI"],
+    "duration": "1 hour",
+    "description": "A deep dive into the architecture of modern LLMs, their capabilities, and the future of this transformative technology.",
+    "time": "10:00 AM - 11:00 AM"
+  },
+  {
+    "title": "Data Analysis in the Age of AI",
+    "speakers": ["Rohan Gupta", "Dr. Ananya Sharma"],
+    "category": ["Data Analysis", "AI"],
+    "duration": "1 hour",
+    "description": "Discover how AI is revolutionizing data analysis, from automated insights to predictive modeling.",
+    "time": "11:10 AM - 12:10 PM"
+  },
+  {
+    "title": "The Core Principles of Artificial Intelligence",
+    "speakers": ["Professor Arjun Mehta"],
+    "category": ["AI", "Data Science"],
+    "duration": "1 hour",
+    "description": "A foundational talk on the core concepts of AI, machine learning, and deep learning.",
+    "time": "12:20 PM - 01:20 PM"
+  },
+  {
+    "title": "From Data to Decisions: A Guide to Data Science",
+    "speakers": ["Dr. Ishanvi Reddy"],
+    "category": ["Data Science"],
+    "duration": "1 hour",
+    "description": "An overview of the data science workflow, from data collection and cleaning to model deployment and interpretation.",
+    "time": "02:20 PM - 03:20 PM"
+  },
+  {
+    "title": "Automating Workflows with Gemini CLI",
+    "speakers": ["Aditya Kumar"],
+    "category": ["GeminiCLI", "AI"],
+    "duration": "1 hour",
+    "description": "Learn how to leverage the Gemini CLI to automate complex tasks and boost your productivity.",
+    "time": "03:30 PM - 04:30 PM"
+  },
+  {
+    "title": "Building Safe and Reliable AI with Anthropic",
+    "speakers": ["Dr. Vikram Singh", "Dr. Sneha Patel"],
+    "category": ["Anthropic", "AI"],
+    "duration": "1 hour",
+    "description": "An exploration of Anthropic's research and techniques for creating safe and beneficial AI systems.",
+    "time": "04:40 PM - 05:40 PM"
+  }
+]
