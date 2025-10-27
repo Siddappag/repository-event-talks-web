@@ -2,6 +2,10 @@
 
 This is a web application for managing and displaying tech event talks.
 
+## Screenshot
+
+![Screenshot](public/screenshot.png)
+
 ## Installation
 
 1. Clone the repository:
