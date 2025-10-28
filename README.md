@@ -2,7 +2,7 @@
 
 This is a web application for managing and displaying tech event talks.
 
-## Screenshot
+## Screenshot of UI
 
 ![Screenshot](public/screenshot.png)
 
